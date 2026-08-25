@@ -9,7 +9,7 @@
 
 I engineer high-concurrency network servers, custom execution engines, and async telemetry pipelines, with a deep focus on performance, memory safety, and low-level protocol design.
 
-Currently working at the intersection of systems programming, kernel observability (eBPF), and cloud infrastructure—building software that manages volatile network I/O, optimizes async runtime execution, and handles production-scale telemetry streams.
+Currently working at the intersection of systems programming, kernel observability (eBPF), and cloud infrastructure. Building software that manages volatile network I/O, optimizes async runtime execution, and handles production-scale telemetry streams.
 
 ---
 
