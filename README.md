@@ -90,5 +90,5 @@ I’m less interested in just writing application logic and more obsessed with:
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/davidsalazar](https://linkedin.com/in/davidsalazar)
+- **LinkedIn:** [linkedin.com/in/davidsalazar](https://www.linkedin.com/in/david-salazar-515999321/)
 - **Email:** [salazardav22@gmail.com](mailto:salazardav22@gmail.com)
