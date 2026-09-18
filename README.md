@@ -7,9 +7,9 @@
 
 **New Jersey Institute of Technology (NJIT) '28**
 
-I engineer high-concurrency network servers, custom execution engines, and async telemetry pipelines, with a deep focus on performance, memory safety, and low-level protocol design.
+I engineer low-latency AI runtimes, high-concurrency network servers, and vectorized data engines—with a deep focus on zero-copy memory management, hardware execution, and low-level protocol design.
 
-Currently working at the intersection of systems programming, kernel observability (eBPF), and cloud infrastructure. Building software that manages volatile network I/O, optimizes async runtime execution, and handles production-scale telemetry streams.
+Currently working at the intersection of systems programming, AI infrastructure, and kernel observability (eBPF). Building software that manages volatile network I/O, eliminates Python GIL bottlenecks in native C++ execution, and streams production-scale telemetry.
 
 ---
 
