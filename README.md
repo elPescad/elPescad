@@ -23,11 +23,10 @@ Currently working at the intersection of systems programming, kernel observabili
 ---
 
 ### 🚀 Current Work
-
-- Developing an **eBPF Async Runtime Profiler** to trace task scheduling, latency bottlenecks, and kernel-level execution
-- Iterating on a **Rust (Tokio, Axum) Telemetry Broker** to scale continuous log ingestion and cloud streaming
-- Engineering a **Dual-Platform Asynchronous HTTPS C10k Server** in C++ using raw socket APIs and OpenSSL
-- Building asynchronous data pipelines to orchestrate automated API calls across distributed backend services
+- ⚡ Building a **Low-Latency Quantitative AI Engine** in C++/LibTorch & PyTorch to run sub-millisecond signal inference over zero-copy memory arenas
+- 🚀 Scaling a **High-Concurrency Rust Telemetry Broker & Polars Analytics Engine** sustaining 27.5k+ active TCP streams with C-speed log vectorization
+- 🌐 Engineering a **Dual-Platform Asynchronous HTTPS C10k Server** in C++ using POSIX/Winsock2 raw socket APIs and OpenSSL TLS termination
+- 🔍 Developing an **eBPF Async Runtime Profiler** to trace kernel-level task scheduling, thread locks, and latency bottlenecks
 ---
 
 ### 📚 Currently Learning
